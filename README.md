@@ -1,5 +1,7 @@
 # 3D- графика: Garden (Three.js + shaders)
 
+Учебный проект, в котором нужно было реализовать сцену из 3д объектов, сделанных в Blender.
+
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
 Run this followed commands:
